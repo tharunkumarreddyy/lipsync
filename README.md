@@ -27,7 +27,7 @@ And then [wav2lip](https://github.com/Rudrabha/Wav2Lip) pre-trained model was us
    end2:135
    start3:488
    end3:508
-5. Run the block of code named `select youtube video`.It will take some 40 minutes of time. Otherwise upload already provided video into the sample_data repository.
+5. Run the block of code named `select youtube video`.It will take some 40 minutes of time. Otherwise upload already provided video into the sample_data repository [input_vid](https://drive.google.com/file/d/1DGsvABkkpl1BLnySHyNryl6eky4t-UNu/view?usp=sharing).
 6. Run the 'select audio' code.Upload an audio file into the sample_data directory of the repository and rename it to `input_audio.wav`.
 7. Run the block of code named `Start crunching and preview output`.
 8. Download the result_voice.mp4 from wave2lip/results/
