@@ -16,7 +16,7 @@ And then [wav2lip](https://github.com/Rudrabha/Wav2Lip) pre-trained model was us
 
 ## Steps to Run
 
-1. Open the [Google Colab](https://colab.research.google.com/drive/1RrJtagpguWYYUqo40KrIF_uzVJFJlzTI?usp=sharing) notebook in this repository.
+1. Open the [Google Colab](https://colab.research.google.com/drive/1RjxheYBSD3Eg1Gzq8xcz7NFz0n3M61PD?usp=sharing) notebook in this repository.
 2. Install all dependencies and pre-trained model by running the setupwav2 cell.
 3. If you want to use the video youtube link [you tube](https://www.youtube.com/watch?v=YMuuEv37s0o) that I used, run the block of code named `Downloading the video file`. Otherwise, upload a video file into the sample_data of the repository and rename it to `input_vid.mp4`.
 4. start:31
